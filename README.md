@@ -23,19 +23,24 @@ in products purchases, including most and least purchased products and support d
 ---
 
 ## Key Metrics (KPIs)
-- **Net Revenue:** $1.27M
+- **Net Revenue:** $1,265,793
 - **Discount Amount:** $88,666
 - **Total Orders:** 830
 - **Total Quantity:** 51,317
-- **Total Product:** 77
-- **Total Employees:** 9
-- **Total Customers:** 89
+- **Shipping Cost:** $69,943
 
 ---
 
 ## Key Insights 
-
+- The dashboard showed Net Revenue peaked in 2014 at $617,085 and declined in 2015 which recorded $440,624 indicating
+- downward revenue trend year-over-year
+- Raclette Courdavault recorded highest customer demand and Net Revenue of $71,156 between 2013 to 2015 period, making it the top performing product
+- Magaret Peacock proceesed the highest Net revenue $232,891 and handled the most customer orders, making her the Top performing employee in sales processing.
+- United Package is the leading Shipping Provider, genrating approximately 38% of Total Shipping cost.
+  
 ---
 
 ## Dashboard Preview
 ![NORTHWINDS_ANALYTICS_DASHBOARD](NORTHWINDS.png)
+
+*Datasets used for learning and Analytical purpose*
