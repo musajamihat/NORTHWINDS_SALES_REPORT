@@ -28,14 +28,14 @@ in products purchases, including most and least purchased products and support d
 - **Total Orders:** 830
 - **Total Quantity:** 51,317
 - **Total Product:** 77
-- **Total Employees:** 830
-- **Total Customers:** 830
-  
+- **Total Employees:** 9
+- **Total Customers:** 89
+
+---
+
+## Key Insights 
+
 ---
 
 ## Dashboard Preview
 ![NORTHWINDS_ANALYTICS_DASHBOARD](NORTHWINDS.png)
-  
-  *Total Products:** 77
-- **Discount Amount:** 88.67k
-- **Total Customers:** 91
