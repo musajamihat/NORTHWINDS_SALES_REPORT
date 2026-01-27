@@ -1,4 +1,4 @@
-# NORTHWINDS ANALYTICS DASHBOARD
+# NORTHWIND SALES PERFORMANCE REPORT
 
 ## Project Overview
 This project focuses on analyzing Revenue(Gross and Net), employees, customers, products, and operational performance in real-world business data. 
