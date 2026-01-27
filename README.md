@@ -18,7 +18,7 @@ in products purchases, including most and least purchased products and support d
 
 ## Data Cleaning and Transformation
 **Power Query in PowerBi** for data modelling,DAX measures and dashboard creation 
-**SQL** for joining tables, handling missing values and detecting data anomalies
+**SQL** for joining Employee and Order tables, detect anomalies and flag data quality issues such as missing dates in Shipped dates
 
 ---
 
@@ -35,12 +35,12 @@ in products purchases, including most and least purchased products and support d
 - The dashboard showed Net Revenue peaked in 2014 at $617,085 and declined in 2015 which recorded $440,624 indicating
 - downward revenue trend year-over-year
 - Raclette Courdavault recorded highest customer demand and Net Revenue of $71,156 between 2013 to 2015 period, making it the top performing product
-- Magaret Peacock proceesed the highest Net revenue $232,891 and handled the most customer orders, making her the Top performing employee in sales processing.
-- United Package is the leading Shipping Provider, genrating approximately 38% of Total Shipping cost.
+- Magaret Peacock processed the highest Net revenue $232,891 and handled the most customer orders, making her the Top performing employee in sales processing.
+- United Package is the leading Shipping Provider, generating approximately 38% of Total Shipping cost.
   
 ---
 
 ## Dashboard Preview
-![NORTHWINDS_ANALYTICS_DASHBOARD](NORTHWINDS.png)
+![NORTHWINDS_ANALYTICS_DASHBOARD](NORTHWIND.png)
 
 *Datasets used for learning and Analytical purpose*
